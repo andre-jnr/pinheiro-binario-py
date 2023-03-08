@@ -26,3 +26,5 @@ Programa desenvolvido em python que "desenha" um pinherio utilizando apenas `0` 
                        0111
                        1000
 ```
+
+Mais estudos sobre python: https://github.com/andre-jnr/estudos-python
